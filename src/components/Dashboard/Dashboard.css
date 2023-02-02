@@ -1,0 +1,31 @@
+.dashboard{
+    color: #E4572E;
+    margin-bottom: 20px;
+}
+.dashboard-container{
+    font-family: Poppins;
+    margin: 20px;
+    padding: 20px;
+}
+.portfolio{
+    display: flex;
+    justify-content: space-between;
+}
+.portfolio-details{
+    color: #E4572E;
+    text-decoration: underline;
+    text-underline-position: under;
+}
+.dashboard-bottom{
+    display: flex;
+    justify-content: space-between;
+}
+.stocks{
+    color: #E4572E;
+    text-decoration: underline;
+    text-underline-position: under;
+}
+.date{
+    color: #E4572E;
+    font-family: Poppins;
+}

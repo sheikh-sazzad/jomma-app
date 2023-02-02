@@ -1,0 +1,29 @@
+.chart-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+}
+.name{
+    color: #E4572E;
+}
+.data{
+    color: #2C7C7A;
+}
+.number-data{
+    color: #389429;
+}
+.unit{
+    display: flex;
+    justify-content: space-between;
+}
+.port-folio{
+    display: flex;
+    justify-content: space-between;
+}
+.gain{
+    display: flex;
+    justify-content: space-between;
+}

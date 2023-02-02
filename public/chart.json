@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name":"eGeneration Limited",
+        "unit":2,
+        "portfolio":68.00,
+        "gain": "1.65",
+        "percentage": "1.65 %"
+    },
+    {
+        "id": 2,
+        "name":"eGeneration Limited",
+        "unit":2,
+        "portfolio":68.00,
+        "gain": "1.65",
+        "percentage": "1.65 %"
+    },
+    {
+        "id": 3,
+        "name":"eGeneration Limited",
+        "unit":2,
+        "portfolio":68.00,
+        "gain": "1.65",
+        "percentage": "1.65 %"
+    },
+    {
+        "id": 4,
+        "name":"eGeneration Limited",
+        "unit":2,
+        "portfolio":68.00,
+        "gain": "1.65",
+        "percentage": "1.65 %"
+    },
+    {
+        "id": 5,
+        "name":"eGeneration Limited",
+        "unit":2,
+        "portfolio":68.00,
+        "gain": "1.65",
+        "percentage": "1.65 %"
+    },
+    {
+        "id": 6,
+        "name":"eGeneration Limited",
+        "unit":2,
+        "portfolio":68.00,
+        "gain": "1.65",
+        "percentage": "1.65 %"
+    },
+    {
+        "id": 7,
+        "name":"eGeneration Limited",
+        "unit":2,
+        "portfolio":68.00,
+        "gain": "1.65",
+        "percentage": "1.65 %"
+    },
+    {
+        "id": 8,
+        "name":"eGeneration Limited",
+        "unit":2,
+        "portfolio":68.00,
+        "gain": "1.65",
+        "percentage": "1.65 %"
+    },
+    {
+        "id": 9,
+        "name":"eGeneration Limited",
+        "unit":2,
+        "portfolio":68.00,
+        "gain": "1.65",
+        "percentage": "1.65 %"
+    }
+]
